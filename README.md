@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ForkingCoder&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="[[https://rm.up.railway.app/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fdailydotdev%2Fmemetoberfest&psig=AOvVaw3utBZE5YtpUz1B6bcyaTS1&ust=1684231803717000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPiowsSK9_4CFQAAAAAdAAAAABAT)](https://user-images.githubusercontent.com/17226499/195440584-68c3f10c-f1cd-4efa-b45b-231458091d34.png)" width="512px"/>
+<img src="https://user-images.githubusercontent.com/17226499/195440584-68c3f10c-f1cd-4efa-b45b-231458091d34.png" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ForkingCoder&icon=0&color=8)](https://visitcount.itsvg.in)
